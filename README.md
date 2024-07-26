@@ -1,0 +1,1 @@
+This is a script that can create a dataset of successful and unsuccessful generation of SWA for a particular Logic App workflow using the Generate Static Web App command from the Logic App VSCode extension. 
